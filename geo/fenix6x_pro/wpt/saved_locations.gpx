@@ -1,1023 +1,981 @@
 <?xml version="1.0"?>
-<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="http://www.delorme.com" xmlns="http://www.topografix.com/GPX/1/1">
-  <wpt lat="39.471277" lon="70.494010">
-    <ele>0</ele>
-    <time>2022-07-18T08:19:01Z</time>
-    <name>18 Jul 13:19z</name>
-    <desc />
-  </wpt>
-  <wpt lat="39.471288" lon="70.493967">
-    <ele>0</ele>
-    <time>2022-07-18T08:19:56Z</time>
-    <name>18 Jul 13:19</name>
-    <desc />
-  </wpt>
-  <wpt lat="39.471302" lon="70.493967">
-    <ele>0</ele>
-    <time>2022-07-18T08:20:16Z</time>
-    <name>18 Jul 13:20</name>
-    <desc />
-  </wpt>
-  <wpt lat="39.496597" lon="70.436407">
-    <ele>0</ele>
-    <time>2022-07-19T12:20:11Z</time>
-    <name>19 Jul 17:20</name>
-    <desc />
-  </wpt>
-  <wpt lat="39.496597" lon="70.436460">
-    <ele>0</ele>
-    <time>2022-07-19T12:20:36Z</time>
-    <name>19 Jul 17:20</name>
-    <desc />
-  </wpt>
-  <wpt lat="39.569540" lon="70.577191">
-    <ele>0</ele>
-    <time>2022-07-31T11:05:26Z</time>
-    <name>31 Jul 16:05</name>
-    <desc />
-  </wpt>
-  <wpt lat="43.349320" lon="42.967242">
-    <ele>0</ele>
-    <time>2023-07-04T06:20:07Z</time>
-    <name>4 Jul 9:20</name>
-    <desc />
-  </wpt>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="http://www.delorme.com">
   <wpt lat="37.181746" lon="72.313265">
     <ele>4018.399</ele>
     <time>2023-08-02T02:16:55Z</time>
     <name>2 Aug 7:16</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.180276" lon="72.314166">
     <ele>4036.000</ele>
     <time>2023-08-02T02:28:37Z</time>
     <name>2 Aug 7:28trop</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.180176" lon="72.314372">
     <ele>4035.399</ele>
     <time>2023-08-02T02:29:35Z</time>
     <name>2 Aug 7:29</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.174348" lon="72.315625">
     <ele>4156.000</ele>
     <time>2023-08-02T02:52:00Z</time>
     <name>2 Aug 7:52</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.171042" lon="72.315643">
     <ele>4253.200</ele>
     <time>2023-08-02T03:30:45Z</time>
     <name>2 Aug 8:30</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.166060" lon="72.312932">
     <ele>4332.000</ele>
     <time>2023-08-02T04:11:14Z</time>
     <name>2 Aug 9:11</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.164586" lon="72.310147">
     <ele>4482.799</ele>
     <time>2023-08-02T05:05:19Z</time>
     <name>2 Aug 10:05</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.162297" lon="72.307526">
     <ele>4587.600</ele>
     <time>2023-08-02T06:26:37Z</time>
     <name>2 Aug 11:26</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.162297" lon="72.307529">
     <ele>4587.600</ele>
     <time>2023-08-02T06:26:43Z</time>
     <name>2 Aug 11:26rzvlk</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.160695" lon="72.307432">
     <ele>4611.000</ele>
     <time>2023-08-02T06:43:01Z</time>
     <name>2 Aug 11:43obedvmalgvn</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.160696" lon="72.306255">
     <ele>4656.600</ele>
     <time>2023-08-02T07:45:39Z</time>
     <name>2 Aug 12:45</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.160706" lon="72.305083">
     <ele>4723.600</ele>
     <time>2023-08-02T08:09:58Z</time>
     <name>2 Aug 13:09</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.160811" lon="72.303797">
     <ele>4813.399</ele>
     <time>2023-08-02T08:53:17Z</time>
     <name>2 Aug 13:53</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.160349" lon="72.301674">
     <ele>4723.600</ele>
     <time>2023-08-02T09:30:57Z</time>
     <name>2 Aug 14:30grbn</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.159653" lon="72.300484">
     <ele>4650.600</ele>
     <time>2023-08-02T09:44:23Z</time>
     <name>2 Aug 14:44</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.162605" lon="72.294589">
     <ele>4444.200</ele>
     <time>2023-08-02T10:27:19Z</time>
     <name>2 Aug 15:27</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.162185" lon="72.288170">
     <ele>4295.399</ele>
     <time>2023-08-02T11:04:28Z</time>
     <name>2 Aug 16:04</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.165086" lon="72.286368">
     <ele>4212.799</ele>
     <time>2023-08-02T11:27:16Z</time>
     <name>2 Aug 16:27campp</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.167949" lon="72.279580">
     <ele>4082.200</ele>
     <time>2023-08-03T01:18:09Z</time>
     <name>3 Aug 6:18ksk</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.172364" lon="72.277026">
     <ele>3892.399</ele>
     <time>2023-08-03T01:45:18Z</time>
     <name>3 Aug 6:45</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.175742" lon="72.269554">
     <ele>3652.799</ele>
     <time>2023-08-03T02:48:38Z</time>
     <name>3 Aug 7:48z1</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.166998" lon="72.265452">
     <ele>3690.799</ele>
     <time>2023-08-03T03:42:36Z</time>
     <name>3 Aug 8:42</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.158939" lon="72.262284">
     <ele>3700.000</ele>
     <time>2023-08-03T04:19:30Z</time>
     <name>3 Aug 9:19</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.150061" lon="72.261602">
     <ele>3770.600</ele>
     <time>2023-08-03T04:59:53Z</time>
     <name>3 Aug 9:59zelen</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.146670" lon="72.263096">
     <ele>3821.000</ele>
     <time>2023-08-03T05:31:32Z</time>
     <name>3 Aug 10:31camp</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.144374" lon="72.266244">
     <ele>3917.399</ele>
     <time>2023-08-04T01:28:36Z</time>
     <name>4 Aug 6:28</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.144682" lon="72.267388">
     <ele>3884.799</ele>
     <time>2023-08-04T01:52:32Z</time>
     <name>4 Aug 6:52</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.144939" lon="72.270213">
     <ele>4011.600</ele>
     <time>2023-08-04T02:44:32Z</time>
     <name>4 Aug 7:44</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.144742" lon="72.270891">
     <ele>4040.799</ele>
     <time>2023-08-04T02:55:16Z</time>
     <name>4 Aug 7:55</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.144756" lon="72.270746">
     <ele>4140.000</ele>
     <time>2023-08-04T03:00:59Z</time>
     <name>4 Aug 8:00ch</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.145495" lon="72.274429">
     <ele>4190.799</ele>
     <time>2023-08-04T03:29:14Z</time>
     <name>4 Aug 8:29w</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.147624" lon="72.281229">
     <ele>4291.000</ele>
     <time>2023-08-04T04:11:45Z</time>
     <name>4 Aug 9:11zel</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.147656" lon="72.289231">
     <ele>4397.399</ele>
     <time>2023-08-04T05:01:34Z</time>
     <name>4 Aug 10:01</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.147052" lon="72.293230">
     <ele>4480.600</ele>
     <time>2023-08-04T05:50:15Z</time>
     <name>4 Aug 10:50obed</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.144813" lon="72.295555">
     <ele>4626.399</ele>
     <time>2023-08-04T08:05:18Z</time>
     <name>4 Aug 13:05</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.145238" lon="72.298122">
     <ele>4619.200</ele>
     <time>2023-08-04T08:51:17Z</time>
     <name>4 Aug 13:51</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.144480" lon="72.300690">
     <ele>4722.000</ele>
     <time>2023-08-04T09:12:38Z</time>
     <name>4 Aug 14:12led</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.138984" lon="72.303723">
     <ele>4910.600</ele>
     <time>2023-08-05T02:24:13Z</time>
     <name>5 Aug 7:24dor</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.138491" lon="72.303620">
     <ele>4939.200</ele>
     <time>2023-08-05T02:39:50Z</time>
     <name>5 Aug 7:39</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.137130" lon="72.308392">
     <ele>5114.799</ele>
     <time>2023-08-05T05:02:57Z</time>
     <name>5 Aug 10:02vnukut</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.136459" lon="72.310242">
     <ele>5046.000</ele>
     <time>2023-08-05T05:54:46Z</time>
     <name>5 Aug 10:54</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.137500" lon="72.318584">
     <ele>4793.399</ele>
     <time>2023-08-05T07:00:27Z</time>
     <name>5 Aug 12:00stoyanki</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.135756" lon="72.326751">
     <ele>4665.200</ele>
     <time>2023-08-05T08:15:42Z</time>
     <name>5 Aug 13:15obed</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.128752" lon="72.333850">
     <ele>4523.399</ele>
     <time>2023-08-05T09:55:55Z</time>
     <name>5 Aug 14:55</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.122165" lon="72.342566">
     <ele>4271.000</ele>
     <time>2023-08-05T10:47:18Z</time>
     <name>5 Aug 15:47</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.125013" lon="72.344525">
     <ele>4298.399</ele>
     <time>2023-08-05T11:15:40Z</time>
     <name>5 Aug 16:15stoyanki</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.128872" lon="72.349454">
     <ele>4326.799</ele>
     <time>2023-08-05T11:42:01Z</time>
     <name>5 Aug 16:42</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.132900" lon="72.351169">
     <ele>4376.399</ele>
     <time>2023-08-05T12:16:45Z</time>
     <name>5 Aug 17:16</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.136724" lon="72.353194">
     <ele>4430.600</ele>
     <time>2023-08-05T12:54:44Z</time>
     <name>5 Aug 17:54ishod</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.141769" lon="72.356001">
     <ele>4506.200</ele>
     <time>2023-08-05T13:27:46Z</time>
     <name>5 Aug 18:27pamyat</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.143313" lon="72.355875">
     <ele>4509.799</ele>
     <time>2023-08-05T13:43:13Z</time>
     <name>5 Aug 18:43camp</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.152910" lon="72.361570">
     <ele>4638.000</ele>
     <time>2023-08-06T01:26:55Z</time>
     <name>6 Aug 6:26ploskach</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.161169" lon="72.360174">
     <ele>4773.600</ele>
     <time>2023-08-06T02:12:43Z</time>
     <name>6 Aug 7:12</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.163194" lon="72.353522">
     <ele>4931.399</ele>
     <time>2023-08-06T02:54:22Z</time>
     <name>6 Aug 7:54</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.164075" lon="72.350131">
     <ele>5004.200</ele>
     <time>2023-08-06T03:27:27Z</time>
     <name>6 Aug 8:27khodash</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.167945" lon="72.352617">
     <ele>4865.200</ele>
     <time>2023-08-06T04:12:55Z</time>
     <name>6 Aug 9:12</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.164075" lon="72.350189">
     <ele>5001.000</ele>
     <time>2023-08-06T04:45:33Z</time>
     <name>6 Aug 9:45</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.154826" lon="72.367897">
     <ele>4639.399</ele>
     <time>2023-08-06T10:01:11Z</time>
     <name>6 Aug 15:01</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.158447" lon="72.375441">
     <ele>4712.799</ele>
     <time>2023-08-06T10:45:14Z</time>
     <name>6 Aug 15:45</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.161547" lon="72.379512">
     <ele>4823.200</ele>
     <time>2023-08-06T11:18:13Z</time>
     <name>6 Aug 16:18</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.161618" lon="72.380915">
     <ele>4834.399</ele>
     <time>2023-08-06T11:42:29Z</time>
     <name>6 Aug 16:42</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.161879" lon="72.383011">
     <ele>4918.000</ele>
     <time>2023-08-06T11:54:10Z</time>
     <name>6 Aug 16:54good</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.161259" lon="72.385200">
     <ele>4887.399</ele>
     <time>2023-08-06T12:56:54Z</time>
     <name>6 Aug 17:56</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.161155" lon="72.385312">
     <ele>4884.000</ele>
     <time>2023-08-06T13:19:18Z</time>
     <name>6 Aug 18:19camp</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.159485" lon="72.388828">
     <ele>4957.399</ele>
     <time>2023-08-07T01:02:25Z</time>
     <name>7 Aug 6:02</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.158059" lon="72.390319">
     <ele>4962.600</ele>
     <time>2023-08-07T01:31:45Z</time>
     <name>7 Aug 6:31</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.155560" lon="72.391984">
     <ele>5039.799</ele>
     <time>2023-08-07T02:05:14Z</time>
     <name>7 Aug 7:05</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.154439" lon="72.394612">
     <ele>5059.600</ele>
     <time>2023-08-07T02:23:20Z</time>
     <name>7 Aug 7:23</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.152928" lon="72.401244">
     <ele>5135.399</ele>
     <time>2023-08-07T03:08:53Z</time>
     <name>7 Aug 8:08</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.152587" lon="72.402747">
     <ele>5157.000</ele>
     <time>2023-08-07T03:40:34Z</time>
     <name>7 Aug 8:40</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.150629" lon="72.404220">
     <ele>5267.399</ele>
     <time>2023-08-07T04:38:18Z</time>
     <name>7 Aug 9:38</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.149710" lon="72.405950">
     <ele>5361.200</ele>
     <time>2023-08-07T05:50:39Z</time>
     <name>7 Aug 10:50</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.148266" lon="72.406060">
     <ele>5426.600</ele>
     <time>2023-08-07T06:39:40Z</time>
     <name>7 Aug 11:39</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.148308" lon="72.406326">
     <ele>5447.399</ele>
     <time>2023-08-07T07:36:42Z</time>
     <name>7 Aug 12:36r1</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.148161" lon="72.406294">
     <ele>5472.000</ele>
     <time>2023-08-07T09:29:12Z</time>
     <name>7 Aug 14:29</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.147666" lon="72.406486">
     <ele>5488.600</ele>
     <time>2023-08-07T10:47:25Z</time>
     <name>7 Aug 15:47</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.147417" lon="72.407170">
     <ele>5538.600</ele>
     <time>2023-08-07T11:16:39Z</time>
     <name>7 Aug 16:16</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.146910" lon="72.408278">
     <ele>5619.000</ele>
     <time>2023-08-07T14:00:16Z</time>
     <name>7 Aug 19:00</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.146072" lon="72.412561">
     <ele>5459.399</ele>
     <time>2023-08-07T15:51:58Z</time>
     <name>7 Aug 20:51</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.141415" lon="72.416161">
     <ele>5411.799</ele>
     <time>2023-08-08T05:10:55Z</time>
     <name>8 Aug 10:10</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.134838" lon="72.421089">
     <ele>5241.000</ele>
     <time>2023-08-08T05:47:56Z</time>
     <name>8 Aug 10:47osyp</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.130168" lon="72.428561">
     <ele>5184.799</ele>
     <time>2023-08-08T06:49:17Z</time>
     <name>8 Aug 11:49</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.132542" lon="72.428260">
     <ele>5216.000</ele>
     <time>2023-08-08T08:07:34Z</time>
     <name>8 Aug 13:07obed</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.136614" lon="72.426971">
     <ele>5290.399</ele>
     <time>2023-08-08T10:40:58Z</time>
     <name>8 Aug 15:40</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.148947" lon="72.430343">
     <ele>5511.000</ele>
     <time>2023-08-08T12:59:57Z</time>
     <name>8 Aug 17:59camp</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.154750" lon="72.427003">
     <ele>5573.600</ele>
     <time>2023-08-09T02:16:02Z</time>
     <name>9 Aug 7:16</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.154853" lon="72.426859">
     <ele>5572.200</ele>
     <time>2023-08-09T02:54:30Z</time>
     <name>9 Aug 7:54tur</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.154918" lon="72.426854">
     <ele>5572.200</ele>
     <time>2023-08-09T03:15:36Z</time>
     <name>9 Aug 8:15st</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.155317" lon="72.426671">
     <ele>5513.399</ele>
     <time>2023-08-09T04:43:01Z</time>
     <name>9 Aug 9:43berg</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.155710" lon="72.425857">
     <ele>5519.799</ele>
     <time>2023-08-09T06:16:22Z</time>
     <name>9 Aug 11:16</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.157122" lon="72.426529">
     <ele>5364.600</ele>
     <time>2023-08-09T08:39:28Z</time>
     <name>9 Aug 13:39</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.157988" lon="72.427653">
     <ele>5283.399</ele>
     <time>2023-08-09T11:11:22Z</time>
     <name>9 Aug 16:11</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.169156" lon="72.433979">
     <ele>4765.399</ele>
     <time>2023-08-09T14:31:57Z</time>
     <name>9 Aug 19:31</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.169179" lon="72.433985">
     <ele>4760.600</ele>
     <time>2023-08-09T14:40:29Z</time>
     <name>9 Aug 19:40camp</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.185832" lon="72.449873">
     <ele>4578.600</ele>
     <time>2023-08-10T05:14:58Z</time>
     <name>10 Aug 10:14</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.185698" lon="72.451425">
     <ele>4653.399</ele>
     <time>2023-08-10T05:27:45Z</time>
     <name>10 Aug 10:27st</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.185836" lon="72.453373">
     <ele>4708.799</ele>
     <time>2023-08-10T05:37:38Z</time>
     <name>10 Aug 10:37pr</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.186558" lon="72.454871">
     <ele>4729.399</ele>
     <time>2023-08-10T06:01:43Z</time>
     <name>10 Aug 11:01z4</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.185399" lon="72.438979">
     <ele>4440.600</ele>
     <time>2023-08-10T07:30:05Z</time>
     <name>10 Aug 12:30st</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.185195" lon="72.435907">
     <ele>4384.799</ele>
     <time>2023-08-10T09:57:54Z</time>
     <name>10 Aug 14:57sli</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.270070" lon="72.423163">
     <ele>3633.799</ele>
     <time>2023-08-11T02:41:08Z</time>
     <name>11 Aug 7:41</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.238273" lon="72.458949">
     <ele>3984.399</ele>
     <time>2023-08-11T05:27:01Z</time>
     <name>11 Aug 10:27megavalun</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.232318" lon="72.469057">
     <ele>4037.399</ele>
     <time>2023-08-12T03:21:13Z</time>
     <name>12 Aug 8:21cmp</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.220457" lon="72.472527">
     <ele>4051.200</ele>
     <time>2023-08-12T04:45:51Z</time>
     <name>12 Aug 9:45sto</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.207000" lon="72.476560">
     <ele>4247.399</ele>
     <time>2023-08-12T06:17:37Z</time>
     <name>12 Aug 11:17greben</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.204168" lon="72.475870">
     <ele>4249.200</ele>
     <time>2023-08-12T06:48:04Z</time>
     <name>12 Aug 11:48obed</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.187205" lon="72.476411">
     <ele>4506.200</ele>
     <time>2023-08-12T13:02:46Z</time>
     <name>12 Aug 18:02camp</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.187174" lon="72.476396">
     <ele>4578.799</ele>
     <time>2023-08-12T13:07:10Z</time>
     <name>12 Aug 18:07campf</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.181441" lon="72.468375">
     <ele>4955.600</ele>
     <time>2023-08-13T05:10:25Z</time>
     <name>13 Aug 10:10</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.181723" lon="72.468253">
     <ele>4980.799</ele>
     <time>2023-08-13T05:19:05Z</time>
     <name>13 Aug 10:19</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.182148" lon="72.467431">
     <ele>4967.399</ele>
     <time>2023-08-13T05:28:15Z</time>
     <name>13 Aug 10:28ru</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.185209" lon="72.459792">
     <ele>4899.600</ele>
     <time>2023-08-13T07:15:52Z</time>
     <name>13 Aug 12:15</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.185620" lon="72.456756">
     <ele>4805.600</ele>
     <time>2023-08-13T08:02:37Z</time>
     <name>13 Aug 13:02plos</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.185395" lon="72.458047">
     <ele>4846.000</ele>
     <time>2023-08-13T08:11:12Z</time>
     <name>13 Aug 13:11led</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.179275" lon="72.465740">
     <ele>5130.000</ele>
     <time>2023-08-14T02:44:17Z</time>
     <name>14 Aug 7:44</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.173811" lon="72.464467">
     <ele>5239.600</ele>
     <time>2023-08-14T03:43:30Z</time>
     <name>14 Aug 8:43</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.172987" lon="72.464570">
     <ele>5312.600</ele>
     <time>2023-08-14T06:00:42Z</time>
     <name>14 Aug 11:00berg</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.172743" lon="72.464456">
     <ele>5341.799</ele>
     <time>2023-08-14T06:57:53Z</time>
     <name>14 Aug 11:57sta</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.172911" lon="72.464500">
     <ele>5349.000</ele>
     <time>2023-08-14T07:28:14Z</time>
     <name>14 Aug 12:28st</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.172494" lon="72.464659">
     <ele>5361.200</ele>
     <time>2023-08-14T08:17:11Z</time>
     <name>14 Aug 13:17st</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.172492" lon="72.464138">
     <ele>5374.399</ele>
     <time>2023-08-14T08:46:37Z</time>
     <name>14 Aug 13:46st</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.172201" lon="72.463868">
     <ele>5403.000</ele>
     <time>2023-08-14T09:08:38Z</time>
     <name>14 Aug 14:08</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.171995" lon="72.464024">
     <ele>5424.399</ele>
     <time>2023-08-14T09:49:46Z</time>
     <name>14 Aug 14:49</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.161894" lon="72.461736">
     <ele>5637.799</ele>
     <time>2023-08-14T15:07:01Z</time>
     <name>14 Aug 20:07camp</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.158876" lon="72.462843">
     <ele>5662.000</ele>
     <time>2023-08-15T06:07:53Z</time>
     <name>15 Aug 11:07</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.158589" lon="72.463476">
     <ele>5692.200</ele>
     <time>2023-08-15T06:31:00Z</time>
     <name>15 Aug 11:31</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.158265" lon="72.464384">
     <ele>5761.399</ele>
     <time>2023-08-15T07:02:03Z</time>
     <name>15 Aug 12:02</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.157224" lon="72.467434">
     <ele>5788.600</ele>
     <time>2023-08-15T07:25:40Z</time>
     <name>15 Aug 12:25</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.157356" lon="72.465657">
     <ele>5762.399</ele>
     <time>2023-08-16T01:11:37Z</time>
     <name>16 Aug 6:11</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.157133" lon="72.469834">
     <ele>5970.200</ele>
     <time>2023-08-16T02:10:01Z</time>
     <name>16 Aug 7:10</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.156342" lon="72.471747">
     <ele>6065.799</ele>
     <time>2023-08-16T03:07:12Z</time>
     <name>16 Aug 8:07</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.156341" lon="72.474434">
     <ele>6219.000</ele>
     <time>2023-08-16T05:48:00Z</time>
     <name>16 Aug 10:48</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.155977" lon="72.475139">
     <ele>6270.200</ele>
     <time>2023-08-16T06:29:06Z</time>
     <name>16 Aug 11:29</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.156969" lon="72.476233">
     <ele>6388.399</ele>
     <time>2023-08-16T07:02:20Z</time>
     <name>16 Aug 12:02gr</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.158593" lon="72.476497">
     <ele>6420.600</ele>
     <time>2023-08-16T08:07:12Z</time>
     <name>16 Aug 13:07</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.159505" lon="72.476582">
     <ele>6482.600</ele>
     <time>2023-08-16T08:25:24Z</time>
     <name>16 Aug 13:25</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.154177" lon="72.471828">
     <ele>6140.200</ele>
     <time>2023-08-16T10:26:44Z</time>
     <name>16 Aug 15:26</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.154183" lon="72.471830">
     <ele>6099.600</ele>
     <time>2023-08-16T10:27:01Z</time>
     <name>16 Aug 15:27</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.118808" lon="72.455837">
     <ele>4875.799</ele>
     <time>2023-08-17T07:25:18Z</time>
     <name>17 Aug 12:25endgla</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.118442" lon="72.455661">
     <ele>4840.200</ele>
     <time>2023-08-17T07:49:27Z</time>
     <name>17 Aug 12:49obed</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.112232" lon="72.456685">
     <ele>4773.600</ele>
     <time>2023-08-17T09:50:55Z</time>
     <name>17 Aug 14:50w</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.106994" lon="72.456930">
     <ele>4660.200</ele>
     <time>2023-08-17T10:17:20Z</time>
     <name>17 Aug 15:17sto&lt;w</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.095938" lon="72.456450">
     <ele>4394.000</ele>
     <time>2023-08-17T14:28:57Z</time>
     <name>17 Aug 19:28</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.095994" lon="72.456372">
     <ele>4394.600</ele>
     <time>2023-08-17T14:29:12Z</time>
     <name>17 Aug 19:29camp</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.086260" lon="72.455509">
     <ele>4254.799</ele>
     <time>2023-08-18T03:39:28Z</time>
     <name>18 Aug 8:39bl</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.086223" lon="72.455132">
     <ele>4254.200</ele>
     <time>2023-08-18T04:10:17Z</time>
     <name>18 Aug 9:10good</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.086008" lon="72.454923">
     <ele>4213.000</ele>
     <time>2023-08-18T04:30:17Z</time>
     <name>18 Aug 9:30pz</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.081249" lon="72.457152">
     <ele>3952.600</ele>
     <time>2023-08-18T05:29:47Z</time>
     <name>18 Aug 10:29</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.077348" lon="72.456043">
     <ele>3878.399</ele>
     <time>2023-08-18T05:52:42Z</time>
     <name>18 Aug 10:52w</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.074615" lon="72.455992">
     <ele>3847.000</ele>
     <time>2023-08-18T06:23:10Z</time>
     <name>18 Aug 11:23</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.074615" lon="72.455990">
     <ele>3846.799</ele>
     <time>2023-08-18T06:23:15Z</time>
     <name>18 Aug 11:23br</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.071903" lon="72.456112">
     <ele>3837.200</ele>
     <time>2023-08-18T06:57:28Z</time>
     <name>18 Aug 11:57sto</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.057891" lon="72.456260">
     <ele>3763.399</ele>
     <time>2023-08-18T07:38:22Z</time>
     <name>18 Aug 12:38w</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.057895" lon="72.456214">
     <ele>3763.399</ele>
     <time>2023-08-18T07:53:41Z</time>
     <name>18 Aug 12:53obed</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.047005" lon="72.456728">
     <ele>3845.200</ele>
     <time>2023-08-18T10:24:50Z</time>
     <name>18 Aug 15:24</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.046672" lon="72.455225">
     <ele>3954.399</ele>
     <time>2023-08-18T11:06:19Z</time>
     <name>18 Aug 16:06</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.045787" lon="72.453549">
     <ele>3988.000</ele>
     <time>2023-08-18T11:28:28Z</time>
     <name>18 Aug 16:28w</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.044882" lon="72.454011">
     <ele>4007.799</ele>
     <time>2023-08-18T11:33:35Z</time>
     <name>18 Aug 16:33max</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.039804" lon="72.459273">
     <ele>3859.600</ele>
     <time>2023-08-18T12:04:40Z</time>
     <name>18 Aug 17:04wow</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.026864" lon="72.457730">
     <ele>3782.200</ele>
     <time>2023-08-18T13:03:21Z</time>
     <name>18 Aug 18:03wow</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.008616" lon="72.408058">
     <ele>2810.199</ele>
     <time>2023-08-18T15:25:35Z</time>
     <name>18 Aug 20:25road</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="37.490748" lon="71.532778">
     <ele>2166.800</ele>
     <time>2023-08-19T12:37:52Z</time>
     <name>19 Aug 17:37host</name>
-    <desc />
+    <desc/>
   </wpt>
   <wpt lat="38.294590" lon="71.340073">
     <ele>1587.399</ele>
     <time>2023-08-20T11:36:55Z</time>
     <name>20 Aug 16:36</name>
-    <desc />
+    <desc/>
   </wpt>
 </gpx>
